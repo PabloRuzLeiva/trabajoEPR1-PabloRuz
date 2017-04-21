@@ -1,0 +1,16 @@
+trabajoEPR1-PabloRuz
+PabloRuzLeiva
+pablo2212
+
+ git clone https://github.com/PabloRuzLeiva/trabajoEPR1-PabloRuz.git
+
+cd trabajoEPR1-PabloRuz
+git status
+
+git add .
+
+git commit -m "agregando nuevos archivos"
+git config --global user.mail "harcorer@gmail.com"
+git config --goblal user.name "PabloRuzLeiva"
+
+git push origin master
